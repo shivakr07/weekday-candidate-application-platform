@@ -1,8 +1,5 @@
-# React Project README
-
----
-
 ### Project Name: Candidate Application Platform
+---
 
 #### Description
 This is a React project designed to [brief description of project purpose or features].
