@@ -1,9 +1,6 @@
 ### Project Name: Candidate Application Platform
 ---
 
-#### Description
-This is a React project designed to [brief description of project purpose or features].
-
 #### Getting Started
 
 1. **Clone the Repository:**
@@ -27,6 +24,12 @@ This is a React project designed to [brief description of project purpose or fea
 
 4. **Access the Application:**
    - Once the application has started successfully, you can access it by opening a web browser and navigating to the  http://localhost:3000/
+
+5. **Image of the App:**
+![Candidate Application Platform](https://github.com/shivakr07/weekday-candidate-application-platform/blob/main/public/candidate_application_platform.png)
+
+6. **Live Demo :**
+[View Live Demo](https://www.example.com)
 
 #### Additional Information
 - Make sure you have Node.js and npm installed on your system before proceeding with the installation steps.
