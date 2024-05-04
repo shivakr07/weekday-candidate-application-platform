@@ -30,7 +30,6 @@ This is a React project designed to [brief description of project purpose or fea
 
 #### Additional Information
 - Make sure you have Node.js and npm installed on your system before proceeding with the installation steps.
-- For any issues or inquiries, please refer to the project's documentation or contact [maintainer's contact information].
 
 ---
 
