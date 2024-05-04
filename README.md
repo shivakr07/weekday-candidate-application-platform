@@ -29,7 +29,7 @@
 ![Candidate Application Platform](https://github.com/shivakr07/weekday-candidate-application-platform/blob/main/public/candidate_application_platform.png)
 
 6. **Live Demo :**
-[View Live Demo](https://www.example.com)
+[View Live Demo](https://weekday-candidate-application-platform.vercel.app/)
 
 #### Additional Information
 - Make sure you have Node.js and npm installed on your system before proceeding with the installation steps.
